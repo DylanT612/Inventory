@@ -1,10 +1,5 @@
 /*
-I certify, that this computer program submitted by me is all of my own work.
-Signed: Dylan Theis 5/17/2024
 
-Author: Dylan Theis
-Date: Summer 2024
-Class: CSC322
 Project: Browsing Online Store - ItemEntry
 Description: ItemEntry gets the item and quantity from ItemInventory
 
